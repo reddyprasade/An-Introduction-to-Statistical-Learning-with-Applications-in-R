@@ -1,0 +1,2 @@
+# An-Introduction-to-Statistical-Learning-with-Applications-in-R
+An Introduction to Statistical Learning (ISL)" by James, Witten, Hastie and Tibshirani is the "how to'' manual for statistical learning. Inspired by "The Elements of Statistical Learning'' (Hastie, Tibshirani and Friedman), this book provides clear and intuitive guidance on how to implement cutting edge statistical and machine learning methods. ISL makes modern methods accessible to a wide audience without requiring a background in Statistics or Computer Science.
